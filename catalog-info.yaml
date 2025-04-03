@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: saludame-1
+  annotations:
+    github.com/project-slug: cone011/saludame-1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Fintech
